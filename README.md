@@ -1,21 +1,26 @@
-### Hi, I'm Dharani 👋
+# Hi, I'm Dharani ✦
 
-Curious, detail-driven data professional with a Master of Data Science and Innovation (Distinction, UTS) and hands-on experience across the data lifecycle — from cleaning and modelling datasets to building dashboards and self-service reporting. Strong SQL fundamentals, with exposure to Microsoft Azure and Fabric, and a track record of turning raw datasets into reporting that stakeholders trust and use.
+Data analyst in Sydney. I love the problem-solving side of data: digging into a messy question, building the dashboard, and finding the story the numbers are telling.
 
-**What I work with:**
-- **Data Modelling & SQL:** Joins, aggregations, window functions, data transformation & preparation
-- **BI & Reporting:** Power BI, Tableau, Streamlit, Excel, dashboarding and self-service reporting
-- **Data Quality & Platforms:** Data cleaning & validation, Microsoft Azure, Microsoft Fabric, Python (Pandas, NumPy)
+🎓 Master of Data Science and Innovation, UTS (Distinction)  
+🔍 Background in biotech quality assurance, so I check every number  
+🌱 Always teaching myself something new  
+📫 dharani.saravanann@gmail.com · [LinkedIn](https://www.linkedin.com/in/dharani-saravanan111)
 
-**Experience:**
-- 🏢 **Data Science Intern @ OMNIYAT** (Dubai) — curated and modelled 10,000+ booking and financial records, improving accuracy for downstream reporting; built a self-service Streamlit reporting tool adopted by 3+ business teams; designed automated data transformation logic and worked with cross-functional stakeholders to translate reporting needs into KPIs and dashboards
-- 🔬 **Biotechnology Intern @ Symbio Laboratories** — maintained GLP and quality assurance protocols, developing a methodical, detail-focused approach to data accuracy and documentation
+---
 
-**A few things I've built:**
-- 🧠 **Facial Asymmetry Detection using Explainable Landmark-Based Features** — computer vision framework using MediaPipe Face Landmarker to extract facial landmarks and quantify regional facial asymmetry (eyes, eyebrows, mouth, jawline) via geometric/Euclidean distance analysis; analysed 594 images from the RAF-DB dataset with statistical validation (ANOVA, p < 0.001). Research supervised by Dr. Ali Anaissi at UTS
-- 🛍️ **Shopify Sales Analytics Dashboard** — modelled and queried e-commerce transaction data using SQL and Python to build a dashboard surfacing product and customer trends
-- 📊 [Daily-splitter-tool-App-1](https://github.com/dharanisaravanann/Daily-splitter-tool-App-1-) - Streamlit self-service reporting tool (built during my OMNIYAT internship) that converts reservation data into daily-level entries, splitting bookings into individual stay dates and calculating revenue per night
-- 🔁 [Reservation-Daily-Split-Tool-with-Revenue](https://github.com/dharanisaravanann/Reservation-Daily-Split-Tool-with-Revenue) — extension of the daily-split logic with full revenue allocation across stay durations
-- 💱 [real-time-currency-converter](https://github.com/dharanisaravanann/real-time-currency-converter) — Python web app turning live/historical FX data into visual insights
+### Featured projects
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dharani-saravanan111/) - or check out what I'm building below!
+| Project | What it shows | Tools |
+|---|---|---|
+| [Shopify sales analytics](https://github.com/dharanisaravanann/shopify-powerbi-dax) | 60,000+ orders, 20+ DAX measures, RFM segmentation, every measure validated against Python | Power BI · DAX · SQL · Python |
+| [Retirement calculator](https://github.com/dharanisaravanann/retirement-calculator-excel-to-python) | Excel model rebuilt as tested Python, matching Excel to within $0.00005 | Python · pandas · Streamlit |
+| ETF holdings-to-NAV reconciliation | Automated pipeline across 202 positions (AUD 9.5B), worst-case gap 0.19% | Python · pandas · Streamlit |
+
+### Toolkit
+
+`SQL` `Python` `pandas` `R` `Power BI` `DAX` `Tableau` `Streamlit` `Excel` `PostgreSQL` `Azure` `Microsoft Fabric` `Git`
+
+---
+
+<sub>Currently open to data analyst roles in Sydney ✦</sub>
